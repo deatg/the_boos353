@@ -81,7 +81,7 @@ Open ./data/config.lua and add your ID to the "sudo_users" section in the follow
 
 * * *
 
-# Masters Bot 2.1v 🔰
+# 
 
 ##### The advanced administration bot based on Tg-Cli. 🌐
 
